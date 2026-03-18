@@ -19,7 +19,7 @@ export default defineConfig({
 				{
 					label: 'Start',
 					items: [
-						{ label: 'Witamy', slug: 'index' },
+						{ label: 'Witamy', slug: '' },
 						{ label: 'Pierwsze kroki', slug: 'setup' },
 					],
 				},
