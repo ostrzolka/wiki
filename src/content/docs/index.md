@@ -1,4 +1,16 @@
-# 📚 Witamy w Wiki Ostrzolka
+---
+title: Witamy na wikipedii strony Ostrzółka
+description: Centralna baza wiedzy naszej organizacji.
+hero:
+  tagline: Centralna baza wiedzy naszej organizacji. Znajdziesz tutaj dokumentację projektów, wytyczne techniczne oraz zasoby dla zespołu.
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Zobacz pierwsze kroki
+      link: ./setup/
+      icon: right-arrow
+      variant: primary
+---
 
 To jest centralna baza wiedzy naszej organizacji. Znajdziesz tutaj dokumentację projektów, wytyczne techniczne oraz zasoby dla zespołu.
 

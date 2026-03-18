@@ -1,3 +1,7 @@
+---
+title: Pierwsze kroki (Setup)
+description: Instrukcja przygotowania lokalnego środowiska do pracy.
+---
 # Pierwsze kroki (Setup)
 
 Instrukcja przygotowania lokalnego środowiska do pracy nad projektami organizacji Ostrzolka.
