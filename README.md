@@ -1,35 +1,64 @@
-# Starlight Starter Kit: Basics
-
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-bun create astro@latest -- --template starlight
-```
+# Ostrzołka Wiki Engine
+
+> **PL:** Silnik wiki dedykowany projektowi Ostrzółka.  
+> **EN:** A dedicated wiki engine for the Ostrzółka project.
+
+---
+
+## 🇵🇱 Język Polski
+
+### O projekcie
+**Ostrzołka Wiki** to warstwa oprogramowania napędzająca platformę informacyjną o historii Bydgoszczy. Repozytorium to zawiera kod źródłowy, architekturę interfejsu oraz logikę zarządzania treścią. 
+
+**⚠️ Ważna uwaga:** To repozytorium dotyczy wyłącznie **silnika wiki** (kodu źródłowego). Dane historyczne, wpisy archiwalne oraz pliki multimedialne są przechowywane i zarządzane w ramach oddzielnego projektu bazy danych.
 
 
-## Project Structure
+### Instalacja i Uruchomienie
+1.  Sklonuj repozytorium: 
+    ```bash
+    git clone https://github.com/ostrzolka/wiki.git
+    ```
+2.  Zainstaluj zależności: 
+    ```bash
+    bun install
+    ```
+3.  Uruchom serwer deweloperski:
+    ```bash
+    bun run dev
+    ```
 
-Astro + Starlight project:
+### Kontrybucja
+Jeśli chcesz pomóc w rozwoju kodu silnika (poprawa wydajności, nowe moduły wizualizacji), zapoznaj się z plikiem `CONTRIBUTING.md`. Poprawki błędów i propozycje nowych funkcji są zawsze mile widziane.
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+---
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🇬🇧 English
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+### About the Project
+**Ostrzołka Wiki** is the software layer powering the information platform for Bydgoszcz's history. This repository contains the source code, UI architecture, and content management logic.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+**⚠️ Note:** This repository is strictly for the **wiki engine** (source code). Historical data, archival entries, and media files are stored and managed within a separate database project.
 
-## Want to learn more?
+### Setup and Installation
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/ostrzolka/wiki.git
+    ```
+2.  Install dependencies:
+    ```bash
+    bun install
+    ```
+3.  Run the development server:
+    ```bash
+    bun run dev
+    ```
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+### Contributing
+If you wish to contribute to the engine's development (performance improvements, new visualization modules), please refer to the `CONTRIBUTING.md` file. Bug fixes and feature requests are always welcome!
+
+---
+
+### License / Licencja
+This project is licensed under the [MIT License](LICENSE).

@@ -6,6 +6,60 @@ Ten projekt przestrzega zasad **Contributor Covenant 3.0**. Poniżej znajduje si
 
 ---
 
+## Wersja Polska (Polish Version)
+
+### Nasza Obietnica
+
+Zobowiązujemy się do tworzenia społeczności przyjaznej, bezpiecznej i sprawiedliwej dla wszystkich.
+
+Dążymy do wspierania środowiska, które szanuje i promuje godność, prawa oraz wkład wszystkich osób, bez względu na rasę, pochodzenie etniczne, kolor skóry, wiek, cechy fizyczne, neuroróżnorodność, niepełnosprawność, płeć, tożsamość lub ekspresję płciową, orientację seksualną, język, wyznanie, pochodzenie narodowe lub społeczne, pozycję socjoekonomiczną, poziom wykształcenia lub inny status.
+
+### Zachowania Zachęcane
+
+Dążymy do spełniania oczekiwań naszej społeczności w zakresie pozytywnych zachowań, pamiętając o różnicach kulturowych i językowych. Zobowiązujemy się do uważnego traktowania siebie nawzajem, opierając się na wspólnych wartościach:
+
+1. Szanowanie **celu naszej społeczności** oraz wspólnych działań (dokumentowanie historii lokalnej).
+2. Wykazywanie się **życzliwością i uczciwością** wobec innych.
+3. Szanowanie **różnych punktów widzenia** i doświadczeń.
+4. **Przyjmowanie odpowiedzialności** za własne działania i wkład w projekt.
+5. Przyjmowanie i udzielanie **konstruktywnej krytyki** z klasą.
+6. Dbanie o **naprawę szkód**, jeśli do nich dojdzie.
+7. Działanie w sposób wspierający **dobrostan naszej społeczności**.
+
+### Zachowania Niedozwolone
+
+Zgadzamy się ograniczać następujące zachowania. Ich wystąpienie, groźby lub promowanie stanowią naruszenie niniejszego Kodeksu:
+
+1. **Nękanie.** Naruszanie wyraźnie określonych granic lub niechciana uwaga po prośbie o zaprzestanie.
+2. **Ataki osobiste.** Obraźliwe, poniżające lub pejoratywne komentarze skierowane do członków społeczności.
+3. **Stereotypowanie i dyskryminacja.** Ocenianie kogoś na podstawie cech niezbywalnych lub tożsamości.
+4. **Seksualizacja.** Zachowania nieodpowiednio intymne w kontekście celu projektu.
+5. **Naruszenie poufności.** Udostępnianie prywatnych informacji innych osób bez ich zgody.
+6. **Zagrożenie bezpieczeństwa.** Powodowanie, zachęcanie lub grożenie przemocą wobec jakiejkolwiek osoby lub grupy.
+
+#### Inne ograniczenia
+
+1. **Wprowadzanie w błąd.** Podszywanie się pod inne osoby w celu oszustwa lub uniknięcia konsekwencji.
+2. **Brak podawania źródeł.** Publikowanie treści bez odpowiedniego uznania autorstwa lub wskazania źródła pochodzenia materiałów historycznych.
+3. **Materiały promocyjne.** Udostępnianie treści marketingowych wykraczających poza normy projektu.
+
+### Zgłaszanie Problemów
+
+W przypadku wystąpienia incydentu, prosimy o niezwłoczne zgłoszenie go. Aby zgłosić naruszenie, **prosimy o wiadomość e-mail na adres: bydgoszczostrzolka@gmail.com**
+
+Moderatorzy traktują zgłoszenia poważnie i dołożą wszelkich starań, aby odpowiedzieć w terminie. Dochodzenia są prowadzone z zachowaniem poufności.
+
+### Naprawa szkód i konsekwencje
+
+Jeśli dochodzenie wykaże naruszenie Kodeksu, mogą zostać podjęte następujące kroki:
+
+1. **Ostrzeżenie:** Prywatne pisemne ostrzeżenie i prośba o naprawę (np. przeprosiny).
+2. **Czasowe ograniczenie aktywności:** Okres "ochłonięcia" z ograniczonym dostępem do komunikacji.
+3. **Czasowe zawieszenie:** Blokada dostępu z określonymi warunkami powrotu.
+4. **Stały ban:** Całkowite i trwałe usunięcie ze społeczności.
+
+---
+
 ## English Version
 
 ### Our Pledge
@@ -66,59 +120,6 @@ If an investigation finds that this Code of Conduct has been violated, the follo
 
 ---
 
-## Wersja Polska (Polish Version)
-
-### Nasza Obietnica
-
-Zobowiązujemy się do tworzenia społeczności przyjaznej, bezpiecznej i sprawiedliwej dla wszystkich.
-
-Dążymy do wspierania środowiska, które szanuje i promuje godność, prawa oraz wkład wszystkich osób, bez względu na rasę, pochodzenie etniczne, kolor skóry, wiek, cechy fizyczne, neuroróżnorodność, niepełnosprawność, płeć, tożsamość lub ekspresję płciową, orientację seksualną, język, wyznanie, pochodzenie narodowe lub społeczne, pozycję socjoekonomiczną, poziom wykształcenia lub inny status.
-
-### Zachowania Zachęcane
-
-Dążymy do spełniania oczekiwań naszej społeczności w zakresie pozytywnych zachowań, pamiętając o różnicach kulturowych i językowych. Zobowiązujemy się do uważnego traktowania siebie nawzajem, opierając się na wspólnych wartościach:
-
-1. Szanowanie **celu naszej społeczności** oraz wspólnych działań (dokumentowanie historii lokalnej).
-2. Wykazywanie się **życzliwością i uczciwością** wobec innych.
-3. Szanowanie **różnych punktów widzenia** i doświadczeń.
-4. **Przyjmowanie odpowiedzialności** za własne działania i wkład w projekt.
-5. Przyjmowanie i udzielanie **konstruktywnej krytyki** z klasą.
-6. Dbanie o **naprawę szkód**, jeśli do nich dojdzie.
-7. Działanie w sposób wspierający **dobrostan naszej społeczności**.
-
-### Zachowania Niedozwolone
-
-Zgadzamy się ograniczać następujące zachowania. Ich wystąpienie, groźby lub promowanie stanowią naruszenie niniejszego Kodeksu:
-
-1. **Nękanie.** Naruszanie wyraźnie określonych granic lub niechciana uwaga po prośbie o zaprzestanie.
-2. **Ataki osobiste.** Obraźliwe, poniżające lub pejoratywne komentarze skierowane do członków społeczności.
-3. **Stereotypowanie i dyskryminacja.** Ocenianie kogoś na podstawie cech niezbywalnych lub tożsamości.
-4. **Seksualizacja.** Zachowania nieodpowiednio intymne w kontekście celu projektu.
-5. **Naruszenie poufności.** Udostępnianie prywatnych informacji innych osób bez ich zgody.
-6. **Zagrożenie bezpieczeństwa.** Powodowanie, zachęcanie lub grożenie przemocą wobec jakiejkolwiek osoby lub grupy.
-
-#### Inne ograniczenia
-
-1. **Wprowadzanie w błąd.** Podszywanie się pod inne osoby w celu oszustwa lub uniknięcia konsekwencji.
-2. **Brak podawania źródeł.** Publikowanie treści bez odpowiedniego uznania autorstwa lub wskazania źródła pochodzenia materiałów historycznych.
-3. **Materiały promocyjne.** Udostępnianie treści marketingowych wykraczających poza normy projektu.
-
-### Zgłaszanie Problemów
-
-W przypadku wystąpienia incydentu, prosimy o niezwłoczne zgłoszenie go. Aby zgłosić naruszenie, **prosimy o wiadomość e-mail na adres: bydgoszczostrzolka@gmail.com**
-
-Moderatorzy traktują zgłoszenia poważnie i dołożą wszelkich starań, aby odpowiedzieć w terminie. Dochodzenia są prowadzone z zachowaniem poufności.
-
-### Naprawa szkód i konsekwencje
-
-Jeśli dochodzenie wykaże naruszenie Kodeksu, mogą zostać podjęte następujące kroki:
-
-1. **Ostrzeżenie:** Prywatne pisemne ostrzeżenie i prośba o naprawę (np. przeprosiny).
-2. **Czasowe ograniczenie aktywności:** Okres "ochłonięcia" z ograniczonym dostępem do komunikacji.
-3. **Czasowe zawieszenie:** Blokada dostępu z określonymi warunkami powrotu.
-4. **Stały ban:** Całkowite i trwałe usunięcie ze społeczności.
-
----
 
 ### Attribution / Atrybucja
 
